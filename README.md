@@ -46,4 +46,4 @@
   [linkedin]: https://www.linkedin.com/in/shriram-badade-41483a14b/
   [github]: https://github.com/rambadade32
   [twitter]:https://twitter.comhttps://twitter.com/ram_badade
-  [instagram]: https://www.instagram.com/https://www.instagram.com/shri_badade/
+  [instagram]: https://www.instagram.com/shri_badade/
